@@ -1,4 +1,4 @@
-# Hi, I'm  Rafael 👋 ( ͡ᵔ ͜ʖ ͡ᵔ) - My page https://dev-rafael-santos.github.io/my-web-site/
+# Hi, I'm  Rafael 👋 ( ͡ᵔ ͜ʖ ͡ᵔ) - My personal page <small>[click here](https://dev-rafael-santos.github.io/my-web-site/)</small>
 
 <a href="https://www.linkedin.com/in/rafael-santos-b51226101/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,3 +16,5 @@ I have been passionate about technology since I was very young! I like challenge
 I have knowledge in: Python, Servers, Networks, HTML, CSS, Git, Windows and SCRUM.
 
 At the moment I'm programming in Python, which has become my favorite language and I'm studying SQL, these two languages ​​are the ones I'm focusing on at the moment. My passion besides programming is playing the guitar, keyboard and drums, and I also like watching anime and reading books every day.
+
+
