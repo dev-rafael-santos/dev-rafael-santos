@@ -13,7 +13,7 @@
 
 I have been passionate about technology since I was very young! I like challenges, books, developing new technologies using logic and analytical thinking.
 
-I have knowledge in: Python, Servers, Networks, HTML, CSS, Git, Windows and SCRUM.
+I have knowledge in: Python, Servers, Networks, HTML, CSS, JavaScript, Git, Windows and SCRUM.
 
 At the moment I'm programming in Python, which has become my favorite language and I'm studying SQL, these two languages ​​are the ones I'm focusing on at the moment. My passion besides programming is playing the guitar, keyboard and drums, and I also like watching anime and reading books every day.
 
