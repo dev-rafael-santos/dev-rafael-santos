@@ -17,6 +17,9 @@ I have knowledge in: Python, Servers, Networks, HTML, CSS, Git, Windows and SCRU
 
 At the moment I'm programming in Python, which has become my favorite language and I'm studying SQL, these two languages ​​are the ones I'm focusing on at the moment. My passion besides programming is playing the guitar, keyboard and drums, and I also like watching anime and reading books every day.
 
-![Tanjiro](./Tanjiro.gif)
+<img src="https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy.gif" alt="Descrição do GIF" width="500" />
+
+
+<!--![Tanjiro](./Tanjiro.gif) -->
 
 
